@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gbdesouza
-- 👀 I’m interested in cyber sec and 
+- 👀 I’m interested in cyber sec and desenvolvimento web
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gabrielcamarasouza62@gmail.com/ number 21988470065
