@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gabrielcamarasouza62@gmail.com/ number 21988470065
 - 😄 Pronouns: ele/dele
-- ⚡ Fun fact: ...
+- ⚡ Fun fact:sou formado em eletronica e amo a linguagem c/c++
 
 <!---
 Gbdesouza/Gbdesouza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
